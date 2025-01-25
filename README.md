@@ -56,8 +56,9 @@ React Navigation
 Axios (for API requests)
 
 Refer to package.json for a full list of dependencies.
+Screenshots:
 
-Screenshots
+
 ![Screenshot01](https://github.com/user-attachments/assets/b3cbc55a-b334-411b-8102-1d41f1f0f0b3)
 ![Screenshot02](https://github.com/user-attachments/assets/f0e4bfd3-3be7-4d58-90c1-54f912a6e15b)
 ![Screenshot03](https://github.com/user-attachments/assets/d1ab0599-c546-4574-ab70-2b7916dda892)
