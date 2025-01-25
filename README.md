@@ -1,5 +1,8 @@
 # Мобилни информациски системи | Домашна 2
 
+Бојан Стефановски 214005
+Стефан Петров 213288
+
 ReadoBooks App
 
 Welcome to ReadoBooks, a mobile application built using React Native and Expo, designed to help users explore and manage their favorite books effortlessly.
