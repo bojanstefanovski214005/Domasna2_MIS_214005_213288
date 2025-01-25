@@ -43,17 +43,6 @@ npx expo start
 
 Then, scan the QR code with the Expo Go app on your mobile device or run the app on an emulator using the available options.
 
-Project Structure
-
-Domasna2_MIS_214005_213288/
-├── assets/         # Images and static assets
-├── components/     # Reusable UI components
-├── screens/        # App screens
-├── navigation/     # Navigation setup
-├── App.js          # Main entry point
-├── package.json    # Project dependencies
-└── README.md       # Documentation
-
 Dependencies
 
 Key dependencies used in the project:
